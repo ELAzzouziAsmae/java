@@ -20,7 +20,7 @@ import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.videoio.VideoCapture;
 
 public class Camera extends JFrame {
-	///////////////
+	///////////////azouzix
 	//camera screen
 	private JLabel cameraScreen;
 	private JButton btnCapture;
